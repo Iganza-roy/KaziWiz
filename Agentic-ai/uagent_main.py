@@ -1,6 +1,4 @@
-"""
-Auto-Coder Decision-Making System for Policy Deliberation
-==========================================================
+
 
 Advanced multi-expert policy analysis system with:
 - Problem statement generation
