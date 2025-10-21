@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+langchain
+python-dotenv
+requests
+pinecone-client
+uagents
+uagents-adapter
